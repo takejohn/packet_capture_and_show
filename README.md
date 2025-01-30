@@ -22,7 +22,6 @@ WinPcapまたはNpcapがインストールされている必要がある。
 1. 規約を読み、同意する場合は「I Agree」をクリックする。
 1. 「Install Npcap in WinPcap API-compatible Mode」にチェックが入っていることを確認して、「Install」をクリックする。
 1. インストールが終わったら、「Next >」をクリックし、「Finish」をクリックしてインストーラを終了する。
-1. Npcap SDK (npcap-sdk-1.13.zip)を解凍する。
 
 ### `Packet.lib`
 `Packet.lib`をRustのツールチェインから参照できるようにする必要がある。
